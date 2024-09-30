@@ -1,0 +1,2 @@
+# IDVault-AI
+ IDVault-Ai is a secure identity management solution built using Web3 technology. It allows users to store, manage, and retrieve their personal IDs in a decentralized manner, ensuring both privacy and security. By leveraging blockchain's immutability and transparency, IDVault-Ai provides a secure vault for ID storage that is owned and controlled by the user, without the need for centralized intermediaries.
